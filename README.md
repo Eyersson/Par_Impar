@@ -10,10 +10,17 @@ Programa para saber si es numero par o impar
 ## Imput
 
 ### Variables de entrada
-num:
+num:digite un numero 
+### procesing
+
+num % 2==0
+
+### output
+ Par o impar
+ # Diseño
+ ![""](./Diagrama.png)
 
 
-## Processing
 
 
 
